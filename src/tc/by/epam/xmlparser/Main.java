@@ -1,4 +1,4 @@
-package tc.by.epam.parser;
+package tc.by.epam.xmlparser;
 
 public class Main {
 
