@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<notes>
+	<note id="1">
+		<to>Вася</to>
+		<from>Света</from>
+		<heading>Напоминание</heading>  
+		<body>Позвони мне завтра!</body>
+	</note>
+</notes>
+
+
