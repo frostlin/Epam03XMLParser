@@ -11,7 +11,6 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 public class XMLParser {
-
     public static Node parse(String pathToXMLFile) {
         File xmlFile = new File(pathToXMLFile);
         ArrayList<String> list = XMLReader.readFile(xmlFile).collect(Collectors.toCollection(ArrayList::new));
